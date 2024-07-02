@@ -1,0 +1,8 @@
+@import url("base/_normalize.css");
+@import url("base/_base.css");
+@import url("base/_form.css");
+@import url("components/_cabecalho.css");
+@import url("components/_menu.css");
+@import url("components/_extrato.css");
+@import url("components/_nova-transacao.css");
+@import url("components/_saldo.css");
